@@ -1,6 +1,6 @@
-# Unix
+# Tarea Unix
 
 
 -el numero de filas que contiene el archivo guesssinggame.md es: 
-wc -l
-ls -lc
+20 guesssinggame.sh
+sáb 23 may 2020 22:38:47 -05
