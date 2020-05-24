@@ -3,4 +3,5 @@
 
 -el numero de filas que contiene el archivo guesssinggame.md es: 
 20 guesssinggame.sh
-sáb 23 may 2020 22:38:47 -05
+-la fecha de creaciòn es:
+sáb 23 may 2020 23:13:10 -05
